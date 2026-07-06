@@ -28,7 +28,7 @@ On the technical side, the system follows a multi-tier architecture — Web/Mobi
 
 The entire system is deployed on **AWS Cloud in the Singapore Region (ap-southeast-1)**, inside a VPC spanning **2 Availability Zones** for High Availability.
 
-![Money Manager Platform Architecture](/images/5-Workshop/5.1-Workshop-overview/architecture-diagram.png?width=70pc&classes=shadow)
+![Money Manager Platform Architecture](/images/2-Proposal/architecture-diagram.png)
 
 **Tech stack:**
 
